@@ -322,6 +322,11 @@ h1,h2,h3,h4,h5,h6 {
     text-align: center;
     letter-spacing: 0.06em;
 }
+.submit-svg {
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
 /* index.html */
 .index-hero {
     margin: 0 auto;
